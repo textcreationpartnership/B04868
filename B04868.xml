@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prospective-glass for Christians; to behold the reigning sins of this age: or, The complaint of truth and conscience against pride, envy, hatred, and malice; which is too much practis'd in this present age. Tune of Monstrous women. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1692?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04868</idno>
+            <idno type="STC">Wing P3812</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[61]</idno>
+            <idno type="EEBO-CITATION">99887269</idno>
+            <idno type="PROQUEST">ocm99887269</idno>
+            <idno type="VID">181978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181978)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prospective-glass for Christians; to behold the reigning sins of this age: or, The complaint of truth and conscience against pride, envy, hatred, and malice; which is too much practis'd in this present age. Tune of Monstrous women. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby, J[onah]. Deacon, J[osiah]. Blare, and J[ohn]. Back.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1688-1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "As in a slumber I was laid ..."</note>
+                  <note>Date, place of publication and publishers' names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181978:1"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <hi>A Proſpective-Glaſs</hi> FOR CHRISTIANS; To behold the Reigning Sins of this AGE:</head>
+            <head type="sub">OR, The Complaint of <hi>Truth</hi> and <hi>Conſcience</hi> againſt <hi>Pride, Envy, Hatred</hi> and <hi>Malice;</hi> which is too much Practis'd in this preſent AGE.</head>
+            <opener>Tune of <hi>Monſtrous Women.</hi>
+            </opener>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>AS in a Slumber I was laid,</l>
+               <l>poor Conſcience was making moan;</l>
+               <l>I ſaw ſweet Truth in Rags array'd,</l>
+               <l>dejected and all alone:</l>
+               <l>I tell you the Aged as well as the Youth,</l>
+               <l>They ſlighted and hated poor Conſcience in Truth,</l>
+               <l>But Diſſimulation there's thouſands will ſooth:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Folly deſperate Folly,</hi>
+                  </l>
+                  <l>
+                     <hi>What will this World come to?</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Sweet Truth immediately reply'd,</l>
+               <l>the Nation may well complain,</l>
+               <l>The Heart of Man is fill'd with Pride,</l>
+               <l>and Malice does Rule and Reign:</l>
+               <l>Ah Conſcience! I tell thee I find thou art poor,</l>
+               <l>I ſee thou art Naked and turn'd out of door,</l>
+               <l>The World ſure was never ſo wicked before;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Folly, deſperate Folly,</hi>
+                  </l>
+                  <l>
+                     <hi>What will this World come to?</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Some Men we find will rant and rear,</l>
+               <l>and call it a merry Life,</l>
+               <l>And oftentimes Embrace a Whore,</l>
+               <l>and ruin an honeſt Wife:</l>
+               <l>A Draggle-Tayl Drab they will cuddle and kiſs,</l>
+               <l>And call her ſometimes the Perfection of Bliſs,</l>
+               <l>For every Raſcal muſt now have his Miſs;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Folly, deſperate Folly,</hi>
+                  </l>
+                  <l>
+                     <hi>What will this World come to?</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Young Harlots do like Porters ply,</l>
+               <l>at every turning down,</l>
+               <l>And when a Cully do's draw nigh,</l>
+               <l>their Fair is but half a Crown:</l>
+               <l>Then ſtrait they both in a Coach muſt be put,</l>
+               <l>The huffing young Gallant, the draggle-tayl Slut,</l>
+               <l>While good honeſt People do walk it on Foot;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Folly, deſperate Folly,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Pride of Women in this Land,</l>
+               <l>was never in <hi>Eve</hi> our Mother;</l>
+               <l>See how their Top-Knots they do ſtand,</l>
+               <l>one Story above another!</l>
+               <l>Their Necks are naked, their Breaſts open wide,</l>
+               <l>Black Patches, now Powder'd and Painted beſide,</l>
+               <l>I think that the Devil's in Women for Pride;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Folly, deſperate Folly,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Some Men will ſay the Crow's not Black,</l>
+               <l>thus flatter before your Face,</l>
+               <l>Then cut your Throat behind your Back,</l>
+               <l>and that in a little ſpace:</l>
+               <l>Their Smiles ſhall be preſently turn'd to a Frown</l>
+               <l>They'll do what they can for to tumble you down,</l>
+               <l>And ruin a Neighbour for leſs than a Crown;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Malice, deſperate Malice, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The down-right Man that cannot cog,</l>
+               <l>nor flatter his Friend at all,</l>
+               <l>Nor fawn, like to a Spaniel Dog,</l>
+               <l>is often run down by all:</l>
+               <l>But he that hath a ſmooth Tongue to comply,</l>
+               <l>Can Complement, Flatter, Diſſemble and Lye,</l>
+               <l>Oh this is an honeſt Man, ſtraight they will cry;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Oh Folly, deſperate Folly,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Rich we find has many Friends,</l>
+               <l>the poor they have few or none;</l>
+               <l>But when this painful Life it ends,</l>
+               <l>we then ſhall be all as one:</l>
+               <l>The wealthy Rich Miſer, and crafty old Knave,</l>
+               <l>He ſhall with the poor Man, lye down in the Grave</l>
+               <l>He ſhall but a Shroud or a Winding-ſheet have;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O Mortals, covetuous Mortals,</hi>
+                  </l>
+                  <l>
+                     <hi>Death we muſt all come to.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then what's the Glory of this World,</l>
+               <l>for which we ſo much contend,</l>
+               <l>When after Death we may be hurl'd,</l>
+               <l>where Miſery has no end?</l>
+               <l>Then while we are living and flouriſhing here,</l>
+               <l>O labour to keep your Conſciences clear,</l>
+               <l>To part with this World then you need not to fear</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Hate Folly, deſperate Folly,</hi>
+                  </l>
+                  <l>
+                     <hi>Death we all muſt come to.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> P. Brooksby, J. Deacon, J. Blare <hi>and</hi> J. Back.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
